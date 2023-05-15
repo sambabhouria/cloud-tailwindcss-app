@@ -22,4 +22,4 @@ I'm having a great time learning Tailwind and is unbelievably powerful! The time
 ![alt text](7.png)
 ![alt text](8.png)
 
-🌏 ![demo] :()
+🌏 ![demo] :(https://amazing-baklava-5be840.netlify.app/)
